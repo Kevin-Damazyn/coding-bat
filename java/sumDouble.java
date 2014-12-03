@@ -8,7 +8,7 @@ return double their sum.
 sumDouble(1, 2) → 3
 sumDouble(3, 2) → 5
 sumDouble(2, 2) → 8
-*
+
 */
 
 class sumDouble {
