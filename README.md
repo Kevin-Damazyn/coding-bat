@@ -1,4 +1,4 @@
 coding-bat
 ==========
 
-Daily Coding Bat problems
+Daily Coding Bat problems + google code competition problems
